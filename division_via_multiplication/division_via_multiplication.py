@@ -1,6 +1,6 @@
 def get_reciprocal(number: float) -> float:
     """Returns the reciprocal of a number."""
-    return 1 / number
+    return (number) ** -1
 
 
 def div_via_multiplication(dividend: float, divisor: float) -> float:
